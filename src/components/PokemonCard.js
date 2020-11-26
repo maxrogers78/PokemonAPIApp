@@ -31,7 +31,7 @@ const PokemonCard = ({ pokemon }) => {
               },
             }}
           >
-            See Details
+            Ver Detalles
           </Link>
         </Card>
       )}

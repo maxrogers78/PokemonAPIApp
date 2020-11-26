@@ -2,7 +2,7 @@
 
 Utilicé React.js junto a otras tecnologías y paquetes como axios, styled-components y react-router-dom.
 
-## Correr el proyecto
+## Ejecutar el proyecto
 
 Primero debe instalar todas las dependencias utilizando el comando:
 

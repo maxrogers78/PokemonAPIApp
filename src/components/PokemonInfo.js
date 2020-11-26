@@ -8,12 +8,12 @@ const PokemonInfo = (props) => {
   return (
     <Info>
       <Link className="go-back" to="/">
-        <i class="fas fa-arrow-left"></i> Go Back
+        <i class="fas fa-arrow-left"></i> Volver
       </Link>
       <h3>{name}</h3>
       <img src={sprites.front_default} alt={name} />
       <div>
-        <h4>Abilities</h4>
+        <h4>Habilidades</h4>
         {abilities.map((item, i) => (
           <p key={i}>{item.ability.name}</p>
         ))}
